@@ -12,3 +12,9 @@ A WordPress plugin for comparing courses. It maps JetEngine taxonomy metadata in
 
 - `course-comparator-pro.php` — plugin entry point and PHP implementation.
 - `assets/` — supporting assets used by the plugin.
+
+## Production usage
+
+[Compare courses on TJS StudySteps](https://tjsstudysteps.com/courses/). Abdul Hameed confirms this plugin is deployed and tested on the live site.
+
+A browser check on 7 November 2026 selected two courses and opened a side-by-side comparison of their universities, qualifications, locations, durations, intakes and fees. The comparison offered a PDF download. PDF output and the deployed revision were not independently verified.
